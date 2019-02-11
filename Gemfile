@@ -38,7 +38,9 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'annotate'
+  gem 'rb-readline'
 end
+
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> in views
